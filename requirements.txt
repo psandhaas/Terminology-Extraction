@@ -1,0 +1,13 @@
+click==8.1.8
+numpy==1.25.1
+pandas==2.2.2
+pandas-stubs==2.2.3.241009
+rich-click==1.8.3
+scikit-learn==1.5.2
+scipy==1.13.1
+spacy==3.8.2
+spacy-alignments==0.9.0
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+spacy-model-en_core_web_sm==3.8.0
+spacy-transformers==1.2.5

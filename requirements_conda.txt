@@ -1,0 +1,17 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+# created-by: conda 25.1.1
+click=8.1.8=pypi_0
+numpy=1.25.1=pypi_0
+pandas=2.2.2=py311hcf9f919_1
+pandas-stubs=2.2.3.241009=pyhd8ed1ab_0
+rich-click=1.8.3=pyhd8ed1ab_0
+scikit-learn=1.5.2=py311hdcb8d17_1
+scipy=1.13.1=pypi_0
+spacy=3.8.2=py311h9b10771_0
+spacy-alignments=0.9.0=pypi_0
+spacy-legacy=3.0.12=pyhd8ed1ab_0
+spacy-loggers=1.0.5=pyhd8ed1ab_0
+spacy-model-en_core_web_sm=3.8.0=pyhd8ed1ab_0
+spacy-transformers=1.2.5=pypi_0
