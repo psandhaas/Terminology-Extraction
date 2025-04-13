@@ -172,3 +172,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# VSCode
+*.vscode/
+code-insiders*
+
+# Exclude project-specific files
+data/*
+!data/gold_terminology_abstracts.txt  # keep default file
+literature/
+output/*
+plots/
+src/descriptive_statistics.ipynb
+src/optimize.py
+Programmierprojekt.pdf
+Report_TerminologyExtraction.pdf
