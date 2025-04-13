@@ -66,7 +66,7 @@ python -m spacy download en_core_web_md
 ## Usage
 Run the end-to-end terminology extraction pipeline using the CLI:
 ```bash
-python main.py extract -d <path/to/bibtex.bib> -a 0.5 -t 2.0
+python ./src/main.py extract -d <path/to/bibtex.bib> -a 0.5 -t 2.0
 ```
 
 ### Parameters
