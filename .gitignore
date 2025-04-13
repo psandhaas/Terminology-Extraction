@@ -178,8 +178,8 @@ cython_debug/
 code-insiders*
 
 # Exclude project-specific files
-data/*
-!data/gold_terminology_abstracts.txt  # keep default file
+/data/*
+!/data/gold_terminology_abstracts.txt  # keep default file
 literature/
 output/*
 plots/
